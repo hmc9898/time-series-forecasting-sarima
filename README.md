@@ -39,4 +39,8 @@ This project focuses on building and evaluating a time series model to forecast 
 - Additional exogenous variables (SARIMAX) could improve predictive power  
 - Next steps may include automating retraining and deployment as a forecasting service
 
+## Author
 
+Heather Marie Culligan  
+[LinkedIn](https://linkedin.com/in/hmc2025)  
+[GitHub](https://github.com/hmc9898)
